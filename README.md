@@ -1,2 +1,4 @@
 # Certificates
-Udacity, edX, Coursera and other MOOCS certificates
+* Udacity, edX, Coursera and other MOOCS certificates
+* Introduction to SQL
+* Intermediate SQL
